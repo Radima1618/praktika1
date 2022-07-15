@@ -2,3 +2,9 @@ praktika1
 изменение 1 
 изменение 2
 изменение 3
+
+md создание
+cd перемещение
+git add .
+git commit -m " praktika" комментарий добавить
+git push origin master отправка
